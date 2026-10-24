@@ -153,6 +153,9 @@
 		<Reference Include="Grpc.Net.Common">
 			<HintPath>$(GamePath)/A Township Tale_Data\Managed\Grpc.Net.Common.dll</HintPath>
 		</Reference>
+		<Reference Include="Hydrateordierate">
+		  <HintPath>D:\Games\A Township Tale Server\A Township Tale\Mods\Hydrateordierate.dll</HintPath>
+		</Reference>
 		<Reference Include="IdentityModel">
 			<HintPath>$(GamePath)/A Township Tale_Data\Managed\IdentityModel.dll</HintPath>
 		</Reference>
