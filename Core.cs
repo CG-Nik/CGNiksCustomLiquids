@@ -55,7 +55,7 @@ namespace CGNiksCustomLiquids
                     Id = "CGNiksCustomLiquids.MineralWaterInfusion",
                     InputLiquids = ["Water"],
                     Item = "Stone",
-                    OutputLiquid = "CGNik.MineralWater",
+                    OutputLiquid = "CGNiksCustomLiquids.MineralWater",
                     ConsumeItem = true
                 }
             );
