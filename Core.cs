@@ -5,6 +5,7 @@ using UnityEngine;
 
 [assembly: MelonInfo(typeof(CGNiksCustomLiquids.Core), "CGNiksCustomLiquids", "1.0.0", "CGNik", null)]
 [assembly: MelonGame("Alta", "A Township Tale")]
+[assembly: MelonOptionalDependencies(["Hydrateordierate"])]
 
 namespace CGNiksCustomLiquids
 {
